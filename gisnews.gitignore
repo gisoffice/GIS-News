@@ -1,1 +1,31 @@
+# Node and build files (if any) 
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
+# Logs
+logs/
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Cache
+.cache/
+dist/
+out/
+
+# Environment files
+.env
+.env.local
